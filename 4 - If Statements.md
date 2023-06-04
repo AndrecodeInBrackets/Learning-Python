@@ -47,7 +47,10 @@ But if `var` is not equal to both, then it says that.
 - `!=` - checks if 2 things are NOT equal to eachother
 - `<` - checks if 1 thing is smaller than the other
 - `>` - checks if 1 thing is greater than the other
-- `=<` - checks if 1 thing is smaller than or equal to the other
-- `=>` - checks if 1 thing is greater than or equal to the other
+- `<=` - checks if 1 thing is smaller than or equal to the other
+- `>=` - checks if 1 thing is greater than or equal to the other
+
+> NOTE: for `<=` and `>=` have the `=` last as the other ones. I think you can see the pattern there...
+
 ## Good Job!
 You finished this lesson! You gain exp lvl 4

@@ -12,12 +12,13 @@ Functions in Python are what the programmer writes to make things work.
 > NOTE: Do Not forget to put `""` to make a string.
 
 Try it for yourself by copying this simple code or writing it by yourself:
-```
+```python
+
 print("Hello, User! Hello, World!")
 ```
 This is the most easiest thing that YOU can do in Python.  
 To print more lines, separately, just use more `print` functions:
-```
+```python
 print("Hello, user")
 print("Hello, World")
 ```
@@ -25,12 +26,12 @@ print("Hello, World")
 > RISKS OF USING `\n`: `\n` kinda gets the code way too messy. If you are using PyCharm, it will not be hard to ignore the `\n`s
 
 ## Other examples
-```
+```python
 print(10 + 10)
 ```
 Output: 20
 
-```
+```python
 print(100)
 ```
 Output: 100

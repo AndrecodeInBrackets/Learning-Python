@@ -27,3 +27,5 @@ Example of a float: `20.23`
 > TIP: Don't forget to NOT use `""` if you want an int or a float. If you want to make an addition operation, use int and/or float not string. If you try and do `"10"+"23"`, it wouldn't give you 33, but 1023.  
 > Talking more on that topic later 
 
+## Good Job!
+You finished this lesson!

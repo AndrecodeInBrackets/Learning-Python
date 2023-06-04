@@ -49,3 +49,5 @@ But if `var` is not equal to both, then it says that.
 - `>` - checks if 1 thing is greater than the other
 - `=<` - checks if 1 thing is smaller than or equal to the other
 - `=>` - checks if 1 thing is greater than or equal to the other
+## Good Job!
+You finished this lesson! You gain exp lvl 4

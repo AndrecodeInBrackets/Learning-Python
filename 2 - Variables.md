@@ -44,5 +44,12 @@ print("The value is", var)
 
 In this example we used `,`.  As you can see, this time we didn't put any spaces. This is because the `,` joins the two but with a space.
 
+# Naming The Variable
+The variable doesn't allow spaces in its name, so we use *Cases*. Cases, here, mean how we name the variable. There are only two cases:
+- The Snake Case - We name a variable with multiple words like this: `snake_case`
+- The Camel Case - We name a variable with multiple words like this: `camelCase`  
+So basically, The snake case uses `_` for spaces and Camel Case uses Capital Letters For new Words
+> NEED TO KNOW THIS: variables are usually written with small letter like this: `variable` and not: `Variable`. If you are prefering Camel Case, You need to write variables like in the example above.
+
 ## Good Job!
 You finished this lesson! You now have experience!

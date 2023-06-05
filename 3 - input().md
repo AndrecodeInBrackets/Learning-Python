@@ -18,9 +18,9 @@ print(var)
 ```
 Now if we run this and write something, we will see the response! Cool!!  
 
-Output:  
-*Input is the best*  
-Input is the best
+`Output:`    
+*`Input is the best`*   
+`Input is the best`  
 
 # But wait! There's more...
 It's pretty boring to use a simple `input` function. But if you didn't know, you can actually put some text inside the `input` function! Let's have a look on how to do it:
@@ -31,11 +31,9 @@ print("Nice to meet you,", var+"!")
 ```
 > As a bonus I added some things from the last lesson!
 
-```
-Output:
-What is your name?: Andrecode
-Nice to meet you, Andrecode!
-```
+`Output:`  
+`What is your name?:` *`Andrecode`*  
+`Nice to meet you,` `Andrecode!`
 
 # BONUS - Let's make a game!
 BOUNS LEVEL! Let's make a login screen! But with a twist! Use this line of code to get started:

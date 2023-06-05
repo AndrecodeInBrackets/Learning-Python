@@ -7,7 +7,7 @@ Operators in Python are the same as in math (almost). The operators are:
 - `/` - division
 - `**` - exponentiation
 - `//` - floor division
-- `%` - modulus
+- `%` - modulus  
 If you already know what these do, then Good Job, you finished the lesson! But if not, let's continue.
 
 ## The basic ones

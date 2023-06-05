@@ -48,5 +48,5 @@ You finished this lesson!
 ```python
 exp = 5
 exp += 1
-ptint(exp)
+print(exp)
 ```

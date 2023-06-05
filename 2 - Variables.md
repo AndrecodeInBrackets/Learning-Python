@@ -1,6 +1,3 @@
-Book of contents:
-
-
 # Lesson 2 - Variables
 
 In this lesson, we will learn about variables.

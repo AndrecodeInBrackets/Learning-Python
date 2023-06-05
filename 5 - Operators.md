@@ -23,8 +23,8 @@ print(6 / 2)
 
 ## The more harder ones
 `**` means a^b.
-`//` divides a number, but if it results into a float it rounds that number down to be an int (7.5 becomes 7)
-`%` the modulus gives you the remainder of a division
+`//` divides a number, but if it results into a float it rounds that number down to be an int (7.5 becomes 7).  
+`%` The modulus gives you the remainder of a division
 
 ```python
 print(3 ** 3)

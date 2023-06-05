@@ -2,7 +2,7 @@
 In this lesson we will learn about `if` statements.
 
 # Introduction
-`if` is another function that allows you to decide how the code should run:
+`if` is a function that allows you to decide how the code should run:
 ```python
 var = "Value"
 

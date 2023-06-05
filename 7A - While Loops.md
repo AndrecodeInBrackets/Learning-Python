@@ -39,7 +39,7 @@ print("The program finished")
 You finished this lesson!
 ```python
 exp = 0
-while exp <= 8:
+while exp <= 7:
   print(exp)
   num += 1
 ```

@@ -2,7 +2,7 @@
 # This one's short!
 
 # Comments
-Comments in python help programmers know what parts of a code do and don't do anything to the code! They are just aesthetic codeblocks!
+Comments in python help programmers know what parts of a code do and don't! They are just aesthetic codeblocks!
 
 # How to Make Comments?
 To make a comment in your Python file, use `#` and then put a space (to be readable) and then write everything you want.  

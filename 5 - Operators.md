@@ -40,7 +40,7 @@ If you want to make an operation with a variable and want to save space, here ar
 - `/=`
 - `**=`
 - `//=`
-- `%=`
+- `%=`  
 These operators mean this:
 ### Demo Example:
 ```python

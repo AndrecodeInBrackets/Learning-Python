@@ -27,3 +27,6 @@ Here are some key features and characteristics of Python:
 
 Python is widely used for a variety of purposes, including web development, scientific computing, data analysis, machine learning, artificial intelligence, automation, scripting, and more. Its versatility, simplicity, and large developer community make it a popular choice among both beginners and experienced programmers.  
 > Response made by ChatGPT
+
+# Contacting
+If you see any errors in the code, post an issue of the `Markdown` and `Line of Code`
